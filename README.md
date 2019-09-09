@@ -1,11 +1,11 @@
-# DATA SCIENCE ROADMAP
+# MY PERSONAL ROADMAP FOR GITHUB
 This repo has been inspired by these:
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 - [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
 
 ### Why this?
-I want to track the progress of my studies in this broad area. I do not intend to list a huge number of resources or courses, just the ones that I have completed so far and the following ones that are on my mind for a next step (in a short/medium or even long term). Anyway, valuable resources that may be part of my plan in the future.
+I want to track the progress of my studies in more GitHub way. I do not intend to list a huge number of resources or courses, just the ones that I have completed so far and the following ones that are on my mind for a next step (in a short/medium or even long term). Anyway, valuable resources that may be part of my plan in the future.
 
 ### How are things classified here?
 It is not that easy to classify subjects in Data Science. Some courses may correspond clearly to only one category, some others may belong to more than one, etc. I have tried to simplify the categories of interest in what you can see in the table of contents. There may still be some incongruences, but I think I am happy with the result :)
@@ -20,12 +20,11 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 2. [General Courses in Data Science](#2-general-courses-in-data-science-back-to-top-).
     - [Python](#python-back-to-top--1).
     - [R](#r-back-to-top--1).
+    - [SQL](#sql-back-to-top--1).
 3. [Data Analysis](#data-analysis-back-to-top--2).
     - [Python](#python-back-to-top--2).
     - [R](#r-back-to-top--2).
-    - [Weka](#weka-back-to-top-).
 4. [Machine Learning](#4-machine-learning-back-to-top-).
-    - [Octave/Matlab](#octavematlab-back-to-top-).
     - [Python](#python-back-to-top--3).
     - [R](#r-back-to-top--3).
 5. [Text Mining and NLP](#5-text-mining-and-nlp-back-to-top-).
