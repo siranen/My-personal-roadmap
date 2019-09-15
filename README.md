@@ -5,10 +5,10 @@ This repo has been inspired by these:
 - [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
 
 ### Why this?
-I want to track the progress of my studies in more GitHub way. I do not intend to list a huge number of resources or courses, just the ones that I have completed so far and the following ones that are on my mind for a next step (in a short/medium or even long term). Anyway, valuable resources that may be part of my plan in the future.
+I want to track the progress in IT World in GitHub way. I do not intend to list a huge number of resources or courses, just the ones that I have completed so far and the following ones that are on my mind for a next step...
 
 ### How are things classified here?
-It is not that easy to classify subjects in Data Science. Some courses may correspond clearly to only one category, some others may belong to more than one, etc. I have tried to simplify the categories of interest in what you can see in the table of contents. There may still be some incongruences, but I think I am happy with the result :)
+It is not that easy to classify subjects in Data Science. 
 
 ---
 
@@ -57,7 +57,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 - [X] [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours.
 - [X] [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (by Hugo Bowne-Anderson at DataCamp). ~ 3 hours.
 - [X] [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (by Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
-- [ ] [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science) (by Jason Myers at DataCamp). ~ 4 hours.  
+- [X] [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science) (by Jason Myers at DataCamp). ~ 4 hours.  
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Mathematical and Statistical Sofware](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Yosu Yurramendi, Master in Computational Engineering and Intelligent Systems, University of the Basque Country). 3 ECTS ~ 75 hours.
@@ -66,22 +66,22 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 - [X] [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) (by Jonathan Cornelissen at DataCamp). ~ 4 hours.
 - [X] [Intermediate R](https://www.datacamp.com/courses/intermediate-r) (by Filip Schouwenaars at DataCamp). ~ 6 hours.
 - [X] [Intermediate R - Practice](https://www.datacamp.com/courses/intermediate-r-practice) (by Filip Schouwenaars at DataCamp). Same sections to the previous course. ~ 4 hours.
-- [ ] [Writing Functions in R](https://www.datacamp.com/courses/writing-functions-in-r) (by Hadley Wickham and Charlotte Wickham at DataCamp). ~ 4 hours.
-- [ ] [Writing Efficient R Code](https://www.datacamp.com/courses/writing-efficient-r-code) (by Colin Gillespie at DataCamp). ~ 4 hours.
-- [ ] [Object-Oriented Programming in R: `S3` and `R6`](https://www.datacamp.com/courses/object-oriented-programming-in-r-s3-and-r6) (by Richie Cotton at DataCamp). ~ 4 hours.
+- [X] [Writing Functions in R](https://www.datacamp.com/courses/writing-functions-in-r) (by Hadley Wickham and Charlotte Wickham at DataCamp). ~ 4 hours.
+- [X] [Writing Efficient R Code](https://www.datacamp.com/courses/writing-efficient-r-code) (by Colin Gillespie at DataCamp). ~ 4 hours.
+- [X] [Object-Oriented Programming in R: `S3` and `R6`](https://www.datacamp.com/courses/object-oriented-programming-in-r-s3-and-r6) (by Richie Cotton at DataCamp). ~ 4 hours.
 
 ### SQL <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science) (by Nick Carchedi at DataCamp). ~ 4 hours.
-- [ ] [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql) (by Chester Ismay at DataCamp). ~ 5 hours.
+- [X] [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql) (by Chester Ismay at DataCamp). ~ 5 hours.
 
 
 # 2. GENERAL COURSES IN DATA SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] [Master thesis corresponding to the Master in Computational Engineering and Intelligent Systems program](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Javier Estraviz. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 18 ECTS ~ 450 hours. Expected: 2018. 
-- [ ] [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) (by Dave Holtz and Cheng-Han Lee at Udacity). ~ 80 hours.
+- [X] [Master thesis corresponding to the Master in Computational Engineering and Intelligent Systems program](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Javier Estraviz. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 18 ECTS ~ 450 hours. Expected: 2018. 
+- [X] [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) (by Dave Holtz and Cheng-Han Lee at Udacity). ~ 80 hours.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [X] [15.071x The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x) (by Dimitris Bertsimas from MITx at edX). ~ 120 hours.
+- [ ] [15.071x The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x) (by Dimitris Bertsimas from MITx at edX). ~ 120 hours.
 - [ ] [Data Science Capstone](https://www.coursera.org/learn/data-science-project) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). 35 hours.
 
 
@@ -113,23 +113,18 @@ Ignacio Martín, Olatz Arbelaitz, Txus Perez. *Master in Computational Engineeri
 - [ ] [Exploratory Data Analysis in R: Case Study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study) (by David Robinson at DataCamp). ~ 4 hours.
 - [ ] [Data Analysis in R, the `data.table` Way](https://www.datacamp.com/courses/data-table-data-manipulation-r-tutorial) (by Matt Dowle and Arun Srinivasan at DataCamp). ~ 4 hours.
 
-### Weka <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [X] [Data Mining and Big Data Analysis](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Itziar Irigoien, Javier Muguerza, Ibai Gurrutxaga, José Ignacio Martín, Olatz Arbelaitz,
-Txus Perez. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
-
-
 # 4. MACHINE LEARNING <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Octave/Matlab <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Machine Learning](https://www.coursera.org/learn/machine-learning) (by Andrew Ng from at Stanford at Coursera). ~ 55 hours.
-- [ ] [Learning from Data]() (by Yaser Abu-Mostafa at Caltech). ~ 108 hours.
+- [X] [Learning from Data]() (by Yaser Abu-Mostafa at Caltech). ~ 108 hours.
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
-- [X] [Making Predictions with Data and Python](https://www.safaribooksonline.com/library/view/making-predictions-with/9781788297448/) (by Alvaro Fuentes at Safari). ~ 4 hours. _[My github repo](https://github.com/estraviz/Making-Predictions-with-Data-and-Python)._
-- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
-- [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
-- [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
-- [X] [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business) (by Jong-Moon Chung from Yonsei University at Coursera) ~ 8 hours. 
+- [ ] [Making Predictions with Data and Python](https://www.safaribooksonline.com/library/view/making-predictions-with/9781788297448/) (by Alvaro Fuentes at Safari). ~ 4 hours. _[My github repo](https://github.com/estraviz/Making-Predictions-with-Data-and-Python)._
+- [ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
+- [ ] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
+- [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
+- [ ] [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business) (by Jong-Moon Chung from Yonsei University at Coursera) ~ 8 hours. 
 - [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
 - [ ] [Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets) (by Peter Bull at DataCamp). ~ 4 hours.
 - [ ] [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) (by Dan Becker at DataCamp). ~ 4 hours.
@@ -169,8 +164,6 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [ ] [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python) (by Katharine Jarmul at DataCamp). ~ 4 hours.
 
-### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] [Text Mining: Bag of Words](https://www.datacamp.com/courses/intro-to-text-mining-bag-of-words) (by Ted Kwartler at DataCamp). ~ 4 hours.
 
 
 # 6. DATA VISUALIZATION AND REPORTING <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
@@ -190,7 +183,7 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [ ] [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r) (by Charlotte Wickham at DataCamp). ~ 4 hours.
 
 ### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) (by Ryan Orban, Chris Saden and Jonathan Dinu at Udacity) ~ 70 hours.
+- [X] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) (by Ryan Orban, Chris Saden and Jonathan Dinu at Udacity) ~ 70 hours.
 
 
 # 7. PROBABILITY AND STATISTICS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
